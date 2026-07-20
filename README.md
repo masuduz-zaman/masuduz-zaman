@@ -30,19 +30,25 @@
 ### JavaScript Frameworks & Libraries:
 <p align="left">
   <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0da2365f-a11c-4007-8103-627cf7ae30d8" />
-  <img width="64" height="64" alt="image" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" />
+  <img width="64" height="64" alt="image" src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" />
   <img width="64" height="64" alt="image" src="https://img.icons8.com/?size=100&id=B4UIxQoMYIGD&format=png&color=000000" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/e9e1ea5e-cb3d-475c-b79c-863f4d5f6ef1" />
 
 </p>
 
 ### Database & Model:
 <p align="left">
-  <img src="https://skillicons.dev" alt="Databases" />
+  <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d794b489-86b1-4565-91e7-1fba3c17fc5f" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/ecf8774a-fac4-43d5-8d4b-90c1d23fe218" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0edb0fa6-7374-486e-a642-ea02aa9dc015" />
+
 </p>
 
 ### Deployment Platform:
 <p align="left">
-  <img src="https://skillicons.dev" alt="Deployment" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0771238b-ec08-46a6-9612-62d8d1fd9dd9" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/f882e5a1-2afb-49ed-8eae-40f93478ec14" />
+
 </p>
 
 ### Design & Graphics:
@@ -54,5 +60,10 @@
 
 ### Tools & Technologies:
 <p align="left">
-  <img src="https://skillicons.dev" alt="Tools" />
+  <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0b097da0-6f06-48b4-bc47-8c7333b23710" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0a5482a2-0561-41f2-96ec-e1f53765be06" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/3f88e18b-cfc6-4470-b4c2-0afffd4862db" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/27742884-d133-407d-b0c9-4caac16b8487" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a10a8200-0db8-4d1f-ab52-ea087d22b447" />
+
 </p>
