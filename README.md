@@ -1,16 +1,18 @@
-## Hi there 👋
+![My Profile Banner](Masuduzzaman.jpg)
 
-<!--
-**masuduz-zaman/masuduz-zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi 👋, I'm Touhidur Zaman</h1>
+  <h3><font color="#3182ce">Passionate Full Stack Web Developer</font></h3>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I'm [@masuduz-zaman](https://github.com/masuduz-zaman)
+- 💻 I'm currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🔮 Using **Node.js, Express.js, MongoDB, Mongoos** for the backend.
+- 🚀 I'm currently learning **PostgreSQL, and Prisma**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore My Portfolio [masuduzzaman](https://masuduzzaman.vercel.app)
+- 📫 Feel free to reach me out [Email](masuduzzaman.officials@gmail.com)
+
+
